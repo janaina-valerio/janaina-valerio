@@ -1,6 +1,6 @@
 # Hi, eu sou a Janaína Mayara Valério! 💜
 
-🎓 Formada em **Redes de Computadores** (2017) e **Banco de Dados** (2020) pela *Fatec Bauru*.  
+🎓 Formada em **Redes de Computadores** (2017) e **Banco de Dados** (2020) pela *Fatec Bauru - Faculdade de Tecnologia de Bauru*.  
 💡 Apaixonada por garantir que sistemas sejam robustos, confiáveis e entregues com qualidade.  
 🚀 Atuo com testes manuais e automatizados, análise crítica de requisitos e melhoria contínua em ambientes ágeis.  
 📚 Aprendo com a minha curiosidade e, é claro, colocando a mão na massa.  
